@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.838dcc9e.css",
+    "main.js": "/portfolio/static/js/main.a68226d0.js",
+    "static/media/youtube.gif": "/portfolio/static/media/youtube.d2d45eda7d2251a2fc11.gif",
+    "static/media/bubble.gif": "/portfolio/static/media/bubble.600648908713254c4cc9.gif",
+    "static/media/movielist.gif": "/portfolio/static/media/movielist.a94b7ce5877254d097d8.gif",
+    "static/media/tomcat.png": "/portfolio/static/media/tomcat.c1810480807aa3a3ca7c.png",
+    "static/media/todolist.gif": "/portfolio/static/media/todolist.c0fd34012b1144e173e3.gif",
+    "static/media/java.png": "/portfolio/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/mobile.png": "/portfolio/static/media/mobile.a21d66af32958f106ce5.png",
+    "static/media/react.png": "/portfolio/static/media/react.0438bc55125799597f93.png",
+    "static/media/springboot.png": "/portfolio/static/media/springboot.eefae7ebdc070febd125.png",
+    "static/media/gmail.png": "/portfolio/static/media/gmail.086db18c4b3fbbf78845.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.fed983c0aab905ad24c8.png",
+    "index.html": "/portfolio/index.html",
+    "main.838dcc9e.css.map": "/portfolio/static/css/main.838dcc9e.css.map",
+    "main.a68226d0.js.map": "/portfolio/static/js/main.a68226d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838dcc9e.css",
+    "static/js/main.a68226d0.js"
+  ]
+}
